@@ -7,7 +7,7 @@ All data is stored in an encrypted format.
 # Features
 1. Multiple password groups defined by master password.
 2. Encryption of passwords.
-3. Automatic login to steam even if already logged into an accout.
+3. Automatic login to steam even if already logged into an account.
 4. Color coded profiles for better recognition.
 5. Support for profile picture as long as the steam profile url is defined.
 6. No API key required
