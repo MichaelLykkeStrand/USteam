@@ -11,4 +11,4 @@ All data is stored in an encrypted format.
 4. Color coded profiles for better recognition.
 5. Support for profile picture as long as the steam profile url is defined.
 6. No API key required
-7. Installer
+7. Automatic installer
