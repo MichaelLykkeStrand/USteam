@@ -13,4 +13,8 @@ All data is stored in an encrypted format.
 6. No API key required
 7. Automatic installer
 
+# Upcoming Features
+1. Automatic login detection of new account
+2. Import/Export accounts to encrypted file for personal transfer
+
 # Thanks to
