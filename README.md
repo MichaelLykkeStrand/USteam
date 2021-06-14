@@ -12,3 +12,5 @@ All data is stored in an encrypted format.
 5. Support for profile picture as long as the steam profile url is defined.
 6. No API key required
 7. Automatic installer
+
+# Thanks to
