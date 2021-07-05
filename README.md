@@ -12,6 +12,8 @@ All data is stored in an encrypted format.
 5. Support for profile picture as long as the steam profile url is defined.
 6. No API key required
 7. Automatic installer
+8. Simple settings UI
+9. Simple stats UI
 
 # Upcoming Features
 1. Automatic login detection of new account
